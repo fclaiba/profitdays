@@ -55,7 +55,7 @@ export function CEOPresentation() {
               Nuestro CEO
             </h3>
             <p className="text-white/80 mb-6">
-              El Señor Santos es un líder visionario con más de 15 años de
+              El Señor Santos es un líder visionario con más de 3 años de
               experiencia en el mundo de las finanzas y la tecnología. Ha
               liderado múltiples empresas exitosas en el sector fintech,
               llevándolas desde su inicio hasta convertirlas en líderes del
