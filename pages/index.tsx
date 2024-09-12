@@ -17,8 +17,8 @@ export default function Home() {
       <CEOPresentation />
       <TradingSkillsImprovement />
       <TestimonialsAndScreenshots />
-      <VideoCta />
       <FAQAccordion />
+      <VideoCta />
       <Footer />
     </>
   );
