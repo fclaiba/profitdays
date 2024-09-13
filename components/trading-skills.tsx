@@ -65,7 +65,7 @@ export function TradingSkillsImprovement() {
         </div>
 
         <div className="text-center mb-6 sm:mb-8 md:mb-10">
-          <span className="inline-block bg-[#26C6DA] text-[#011627] font-bold py-1 px-3 sm:py-2 sm:px-4 text-sm sm:text-base md:text-lg rounded-full">
+          <span className="inline-block bg-[#FF4136] text-white font-bold py-1 px-3 sm:py-2 sm:px-4 text-sm sm:text-base md:text-lg rounded-full">
             ¡No te lo pierdas!
           </span>
         </div>
