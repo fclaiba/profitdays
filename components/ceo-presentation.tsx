@@ -23,7 +23,7 @@ export function CEOPresentation() {
       <div className="container mx-auto px-4">
         <div className="flex flex-col lg:flex-row items-start lg:items-center gap-12">
           <div className="w-full lg:w-1/2 flex flex-col items-center">
-            <h2 className="text-3xl font-bold mb-6 text-[#26C6DA]">
+            <h2 className="text-3xl font-extrabold mb-6 text-[#26C6DA]">
               Sebastián Saltos
             </h2>
             <div className="relative w-full aspect-square max-w-md mb-6">
@@ -54,7 +54,7 @@ export function CEOPresentation() {
             <h3 className="text-2xl font-semibold mb-4 text-[#26C6DA]">
               Nuestro CEO
             </h3>
-            <p className="text-white/80 mb-6">
+            <p className="text-white/80 mb-6 ">
               El Señor Saltos es un líder visionario con más de 3 años de
               experiencia en el mundo de las finanzas y la tecnología. Ha
               liderado múltiples empresas exitosas en el sector fintech,

@@ -66,7 +66,7 @@ export default function Component() {
         <h2 className="text-4xl font-bold text-center text-[#26C6DA]">
           APRENDE TRADING como UN EXPERTO en tan sólo 6 MESES
         </h2>
-        <p className="text-center text-gray-300 text-lg">
+        <p className="text-center text-gray-300 text-lg font-extrabold">
           Mira este video e involúcrate con profesionales de alto nivel para
           lograr volverte uno de ellos y dominar a la perfección las inversiones
           bursátiles en el mercado global de intercambio de divisas.

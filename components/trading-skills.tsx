@@ -32,12 +32,12 @@ const SkillCard = ({ icon: Icon, title, cta }: SkillCardProps) => {
       <div className="bg-[#011627] border border-[#26C6DA]/20 rounded-lg p-4 sm:p-6 transition-all duration-300 hover:shadow-lg hover:shadow-[#26C6DA]/10 w-full h-[120px] sm:h-[150px] md:h-[180px] flex items-center mb-2 sm:mb-4">
         <div className="flex items-center space-x-3">
           <Icon className="w-6 h-6 sm:w-8 sm:h-8 text-[#26C6DA] flex-shrink-0" />
-          <h3 className="text-sm sm:text-base md:text-lg lg:text-xl font-semibold text-[#26C6DA] line-clamp-2">
+          <h3 className="text-sm sm:text-base md:text-lg lg:text-xl font-semibold text-[#26C6DA] line-clamp-2 font-extrabold">
             {title}
           </h3>
         </div>
       </div>
-      <p className="text-xs sm:text-sm md:text-base lg:text-lg text-[#26C6DA] font-medium text-center w-full">
+      <p className="text-xs sm:text-sm md:text-base lg:text-lg text-white font-medium text-center w-full">
         {cta}
       </p>
     </div>

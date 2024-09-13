@@ -74,7 +74,7 @@ export function ForexFeatures() {
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-6 text-[#26C6DA]">
           Aprende a operar en Forex de manera profesional con nuestra academia
         </h2>
-        <p className="text-xl text-center text-white/80 mb-16 max-w-3xl mx-auto">
+        <p className="text-xl text-center text-white/80 mb-16 max-w-3xl mx-auto font-extrabold">
           Desarrolla tus habilidades en el mercado de divisas con nuestra guía
           paso a paso nuestra academia de Forex te ofrece estrategias,
           metodologías de entradas, plan de trading, psicotrading, gestión de

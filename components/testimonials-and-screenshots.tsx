@@ -77,7 +77,7 @@ export default function TestimonialsAndScreenshots() {
           <h2 className="text-3xl md:text-5xl font-bold text-center mb-4 text-[#26C6DA]">
             Lo que nuestros alumnos dicen
           </h2>
-          <p className="text-lg md:text-xl text-center mb-8 md:mb-12 max-w-2xl mx-auto">
+          <p className="text-lg md:text-xl text-center mb-8 md:mb-12 max-w-2xl mx-auto font-extrabold">
             Descubre cómo Profit's Day profesionaliza traders por todo el mundo.
           </p>
           <div className="max-w-3xl mx-auto">
@@ -126,7 +126,7 @@ export default function TestimonialsAndScreenshots() {
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-4 text-[#26C6DA]">
             Ve a Profit's Day en acción
           </h2>
-          <p className="text-lg md:text-xl text-center mb-8 md:mb-12 max-w-2xl mx-auto">
+          <p className="text-lg md:text-xl text-center mb-8 md:mb-12 max-w-2xl mx-auto font-extrabold">
             Realiza un recorrido visual por nuestras poderosas características
             diseñadas para mejorar tu experiencia de trabajo remoto.
           </p>

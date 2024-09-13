@@ -53,7 +53,7 @@ export function Hero() {
         </div>
 
         {/* Title */}
-        <h1 className="text-5xl md:text-7xl font-bold text-center mb-12 leading-tight">
+        <h1 className="text-5xl md:text-7xl font-extrabold text-center mb-12 leading-tight">
           Descubre tu potencial como analista financiero.
           <br />
         </h1>

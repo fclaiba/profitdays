@@ -47,7 +47,7 @@ export function MissionVision() {
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-6 text-[#26C6DA]">
           Nuestra misión y visión
         </h2>
-        <p className="text-xl text-center text-white/80 mb-16 max-w-3xl mx-auto">
+        <p className="text-xl text-center text-white/80 mb-16 max-w-3xl mx-auto font-extrabold">
           Conoce nuestros objetivos y valores
         </p>
         <div className="flex flex-wrap justify-center gap-4 lg:gap-8">
